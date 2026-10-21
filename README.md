@@ -26,7 +26,7 @@ A análise consome uma base de indicadores fundamentalistas contendo dezenas de 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório para o seu ambiente local:
    ```bash
-git clone 
+git clone https://github.com/Vitor-neia/Analise-Exploratoria-de-acoes-da-B3-com-foco-no-setor-Bancario.git
 pip install pandas numpy matplotlib seaborn adjustText
 Abra o arquivo .ipynb no seu editor de preferência (VS Code, Jupyter ou Google Colab).
 Certifique-se de que a base de dados .csv esteja no diretório correto configurado no script e execute as células sequencialmente.  
