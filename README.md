@@ -25,7 +25,7 @@ A análise consome uma base de indicadores fundamentalistas contendo dezenas de 
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório para o seu ambiente local:  https://github.com/Vitor-neia/Analise-Exploratoria-de-acoes-da-B3-com-foco-no-setor-Bancario.git
-   ```bash
+   ```bash   https://github.com/Vitor-neia/Analise-Exploratoria-de-acoes-da-B3-com-foco-no-setor-Bancario.git
 git clone  
 
 pip install pandas numpy matplotlib seaborn adjustText
